@@ -239,7 +239,7 @@ void move2()
 
 			gotocoordinates(0, 30); // go under the maze
 			cout << "Congratulations! You finished level 2 in " << std::chrono::duration_cast<std::chrono::seconds>(t2 - t1).count() << " seconds." << endl;
-			cout << "Press any key to quit to quit." << endl;
+			cout << "Type in q to quit." << endl;
 			cin >> q;
 			if (q == 'q')
 			{
