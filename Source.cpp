@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "pch.h" // delete if you don't use precompiled headers/visual studio
 #include <iostream>
 #include <Windows.h>
 #include <conio.h>
